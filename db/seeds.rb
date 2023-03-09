@@ -7,9 +7,9 @@
 #   Character.create(name: "Luke", movie: movies.first)
 Message.create([
     { message: 'We are so close to the program' },
-    { message: 'Sleepless night' },
-    { message: 'Day before capstone' },
-    { message: 'Magical sun set' },
     { message: 'Where was Auto magical ChatGpt' },
+    { message: 'Magical sun set' },
+    { message: 'Day before capstone' },
+    { message: 'Sleepless night' },
     { message: 'Ask sister ChatGpt' }
   ])
