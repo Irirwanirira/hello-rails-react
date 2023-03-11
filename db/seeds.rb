@@ -11,6 +11,8 @@ Message.create([
     { message: 'Magical sun set' },
     { message: 'Day before capstone' },
     { message: 'Sleepless night' },
-  
+    { message: 'Ask sister ChatGpt' },
+    { message: 'Time will come'},
+    { message: 'And the wordl will disapear'}
 
   ])
